@@ -4,7 +4,13 @@
 To Write a python program to print the following integer literals.
 
 ## ALGORITHM  
-1. 
+1.Define the integer variable and assign it the value 123_456_789 using underscores to improve readability.
+
+2.Use the print() function to output the value of the integer variable.
+
+3.The underscores in the number will be ignored by Python, but the value remains 123456789.
+
+4.The program will print the integer 123456789 as output when executed.
 
 ## PROGRAM
 ```python
