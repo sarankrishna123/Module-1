@@ -1,34 +1,21 @@
-# Experiment No: 1 Python Basics- Printing Multiline String
+# Experiment No: 1 Python Basics- Printing integer literal
 
 ## AIM  
-To create a Python program to print the string in multiple lines using triple quotes.
+To Write a python program to print the following integer literals.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Use triple quotes (`'''` or `"""`) to define a string that spans multiple lines.  
-3. Use the `print()` function to display the multi-line string.  
-4. Terminate the program.
+1. 
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
-
-string_single_quotes = '''I am a string literal
-... has more than one
-... line
-... placed inside triple single quotes'''
-
-string_double_quotes = """I am a string literal
-... has more than one
-... line
-... placed inside triple double quotes"""
-
-print(string_single_quotes)
-print(string_double_quotes)
+# Reg.No-212223070023
+# Name-Saran Krishna P S
+num = 123_456_789
+print(num)
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/6402cf7e-57e7-4d77-b5ce-df01d1b6e3e4)
 
 ## RESULT
 
+Thus the above program is executed successfully.
